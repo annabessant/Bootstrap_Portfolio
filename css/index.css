@@ -38,3 +38,11 @@ font-size: 18px;
 .cardContainer {
   display:flex;
 }
+
+.footer h2 {
+  font-size: 20px;
+  text-align: center;
+}
+#contact-me p{
+  margin-bottom: 40px;
+}
