@@ -33,16 +33,15 @@ font-size: 18px;
 }
 .navbar {
   background-color: lightsteelblue;
+  content: row;
 }
 
 .cardContainer {
-  display:flex;
+  display:flex center;
+  content:row; 
+  justify-content: first baseline;
+}
+.card {
+  display:inline-block;
 }
 
-.footer h2 {
-  font-size: 20px;
-  text-align: center;
-}
-#contact-me p{
-  margin-bottom: 40px;
-}
