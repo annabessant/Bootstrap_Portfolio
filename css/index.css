@@ -37,11 +37,13 @@ font-size: 18px;
 }
 
 .cardContainer {
-  display:flex center;
+  display:flex;
   content:row; 
   justify-content: first baseline;
 }
 .card {
   display:inline-block;
 }
+
+
 
