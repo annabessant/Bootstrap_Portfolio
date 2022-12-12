@@ -21,9 +21,11 @@ font-size: 18px;
 
 .cardContainer {
   margin-bottom: 15px;
+  justify-content:space-evenly;
 }
 .card {
   margin: 0 auto;
+  justify-content:space-evenly;
 }
 .signUp form {
   margin: 35px auto;
@@ -33,13 +35,13 @@ font-size: 18px;
 }
 .navbar {
   background-color: lightsteelblue;
-  content: row;
+  content:row;
 }
 
 .cardContainer {
   display:flex;
   content:row; 
-  justify-content: first baseline;
+  justify-content: first baseline; 
 }
 .card {
   display:inline-block;
