@@ -6,6 +6,11 @@ footer {
   background-color: #f5f5f5;
   margin-top: 50px;
 }
+/* .jumbotron {
+  background-image: url("../images/Rainy_web_top.jpeg");
+  background-size: cover;
+} */
+
 .cardContainer {
   margin-bottom: 15px;
 }
