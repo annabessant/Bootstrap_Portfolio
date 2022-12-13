@@ -41,11 +41,10 @@ font-size: 18px;
 .cardContainer {
   display:flex;
   content:row; 
-  justify-content: first baseline; 
+  justify-content: center; 
 }
 .card {
   display:inline-block;
-  
 }
 
 .footer {
@@ -60,7 +59,14 @@ font-size: 18px;
   text-align: center;
 }
 #contact-me p{
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
-
+.footer h5 {
+  background-color: #B0C4DE;
+  padding: 20px;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
 
