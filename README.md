@@ -8,7 +8,8 @@ Styled jumbotron to insert personal image and some starter information;
 Created four cards to address four project areas; added hyper links to learn more; 
 Created required skill section as a card;
 Added contact section about me; 
-Deployed to GitHub
+Deployed to GitHub:
+https://annabessant.github.io/Bootstrap_Portfolio/ 
 
 
 ## Lessons learnt
